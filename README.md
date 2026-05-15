@@ -1,5 +1,5 @@
 <!-- 헤더 웨이브 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:818cf8,100:c4b5fd&height=220&section=header&text=이채린's%20Portfolio&fontSize=52&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=배우며%20만들고%2C%20성장하는%20프론트엔드%20개발자&descSize=18&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:818cf8,100:c4b5fd&height=220&section=header&text=이채린's%20Github&fontSize=52&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=배우며%20만들고%2C%20성장하는%20프론트엔드%20개발자&descSize=18&descAlignY=58&animation=fadeIn)
 
 <br>
 
